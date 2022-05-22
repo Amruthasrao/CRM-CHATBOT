@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>HELLO</pattern>
+	<template>Hi this is opaque shop</template>
+</category>
+
+<category>
+	<pattern>HEY</pattern>
+	<template>Hi this is opaque shop</template>
+</category>
+
+<category>
+	<pattern>HEY THERE</pattern>
+	<template>Hi this is opaque shop</template>
+</category>
+
+<category>
+	<pattern>HI</pattern>
+	<template>His this is opaque shop</template>
+</category>
+
+<category>
+	<pattern>HI</pattern>
+	<template>Hi this is opaque shop</template>
+</category>
+
+<category>
+	<pattern>IS THIS AN ELECTRONICS SHOP</pattern>
+	<template>yes it is</template>
+</category>
+
+<category>
+	<pattern>DOES YOUR SHOP SELL ELECTRONICS</pattern>
+	<template>yes we do</template>
+</category>
+
+<category>
+	<pattern>WHERE IS YOUR SHOP LOCATED</pattern>
+	<template>at vijayanagar</template>
+</category>
+
+<category>
+	<pattern>LOCATION</pattern>
+	<template>at vijayanagar</template>
+</category>
+
+<category>
+	<pattern>LOCATION OF THE SHOP</pattern>
+	<template>at viajayanagar</template>
+</category>
+
+<category>
+	<pattern>YOUR SHOP IS LOCATED AT</pattern>
+	<template>at vijayanagar</template>
+</category>
+
+<category>
+	<pattern>OK THANK YOU BYE</pattern>
+	<template>Thank you customer</template>
+</category>
+
+<category>
+	<pattern>GOODBYE</pattern>
+	<template>Thank you customer</template>
+</category>
+
+<category>
+	<pattern>BYE</pattern>
+	<template>Thank you customer</template>
+</category>
+
+<category>
+	<pattern>BYE BYE</pattern>
+	<template>Thank you customer</template>
+</category>
+
+</aiml>
